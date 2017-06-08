@@ -21,23 +21,23 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		0B21A29C1EE933640086903C /* PBXContainerItemProxy */ = {
+		0B21A2A91EE935440086903C /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 0B21A2961EE933640086903C /* CCTagSelection.xcodeproj */;
+			containerPortal = 0B21A2A31EE935440086903C /* CCTagSelection.xcodeproj */;
 			proxyType = 2;
 			remoteGlobalIDString = 538CB1091EDFFC2200CE51E5;
 			remoteInfo = CCTagSelection;
 		};
-		0B21A29E1EE933640086903C /* PBXContainerItemProxy */ = {
+		0B21A2AB1EE935440086903C /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 0B21A2961EE933640086903C /* CCTagSelection.xcodeproj */;
+			containerPortal = 0B21A2A31EE935440086903C /* CCTagSelection.xcodeproj */;
 			proxyType = 2;
 			remoteGlobalIDString = 538CB1221EDFFC2200CE51E5;
 			remoteInfo = CCTagSelectionTests;
 		};
-		0B21A2A01EE933640086903C /* PBXContainerItemProxy */ = {
+		0B21A2AD1EE935440086903C /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 0B21A2961EE933640086903C /* CCTagSelection.xcodeproj */;
+			containerPortal = 0B21A2A31EE935440086903C /* CCTagSelection.xcodeproj */;
 			proxyType = 2;
 			remoteGlobalIDString = 538CB12D1EDFFC2200CE51E5;
 			remoteInfo = CCTagSelectionUITests;
@@ -47,7 +47,7 @@
 /* Begin PBXFileReference section */
 		0B21A2921EE8EF250086903C /* TagSelectSectionHeaderView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TagSelectSectionHeaderView.swift; sourceTree = "<group>"; };
 		0B21A2941EE8F3E60086903C /* TagModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TagModel.swift; sourceTree = "<group>"; };
-		0B21A2961EE933640086903C /* CCTagSelection.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = CCTagSelection.xcodeproj; path = CCTagSelection/CCTagSelection.xcodeproj; sourceTree = "<group>"; };
+		0B21A2A31EE935440086903C /* CCTagSelection.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = CCTagSelection.xcodeproj; sourceTree = "<group>"; };
 		0B3D9F611EE828E10024B72A /* TagSelectionDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TagSelectionDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0B3D9F641EE828E10024B72A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0B3D9F661EE828E10024B72A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -75,12 +75,12 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		0B21A2971EE933640086903C /* Products */ = {
+		0B21A2A41EE935440086903C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0B21A29D1EE933640086903C /* CCTagSelection.app */,
-				0B21A29F1EE933640086903C /* CCTagSelectionTests.xctest */,
-				0B21A2A11EE933640086903C /* CCTagSelectionUITests.xctest */,
+				0B21A2AA1EE935440086903C /* CCTagSelection.app */,
+				0B21A2AC1EE935440086903C /* CCTagSelectionTests.xctest */,
+				0B21A2AE1EE935440086903C /* CCTagSelectionUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -88,7 +88,7 @@
 		0B3D9F581EE828E10024B72A = {
 			isa = PBXGroup;
 			children = (
-				0B21A2961EE933640086903C /* CCTagSelection.xcodeproj */,
+				0B21A2A31EE935440086903C /* CCTagSelection.xcodeproj */,
 				0B3D9F631EE828E10024B72A /* TagSelectionDemo */,
 				0B3D9F621EE828E10024B72A /* Products */,
 				747CD05AC28B45EBD3D6BD56 /* Pods */,
@@ -192,8 +192,8 @@
 			projectDirPath = "";
 			projectReferences = (
 				{
-					ProductGroup = 0B21A2971EE933640086903C /* Products */;
-					ProjectRef = 0B21A2961EE933640086903C /* CCTagSelection.xcodeproj */;
+					ProductGroup = 0B21A2A41EE935440086903C /* Products */;
+					ProjectRef = 0B21A2A31EE935440086903C /* CCTagSelection.xcodeproj */;
 				},
 			);
 			projectRoot = "";
@@ -204,25 +204,25 @@
 /* End PBXProject section */
 
 /* Begin PBXReferenceProxy section */
-		0B21A29D1EE933640086903C /* CCTagSelection.app */ = {
+		0B21A2AA1EE935440086903C /* CCTagSelection.app */ = {
 			isa = PBXReferenceProxy;
 			fileType = wrapper.application;
 			path = CCTagSelection.app;
-			remoteRef = 0B21A29C1EE933640086903C /* PBXContainerItemProxy */;
+			remoteRef = 0B21A2A91EE935440086903C /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
-		0B21A29F1EE933640086903C /* CCTagSelectionTests.xctest */ = {
+		0B21A2AC1EE935440086903C /* CCTagSelectionTests.xctest */ = {
 			isa = PBXReferenceProxy;
 			fileType = wrapper.cfbundle;
 			path = CCTagSelectionTests.xctest;
-			remoteRef = 0B21A29E1EE933640086903C /* PBXContainerItemProxy */;
+			remoteRef = 0B21A2AB1EE935440086903C /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
-		0B21A2A11EE933640086903C /* CCTagSelectionUITests.xctest */ = {
+		0B21A2AE1EE935440086903C /* CCTagSelectionUITests.xctest */ = {
 			isa = PBXReferenceProxy;
 			fileType = wrapper.cfbundle;
 			path = CCTagSelectionUITests.xctest;
-			remoteRef = 0B21A2A01EE933640086903C /* PBXContainerItemProxy */;
+			remoteRef = 0B21A2AD1EE935440086903C /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
 /* End PBXReferenceProxy section */
